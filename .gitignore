@@ -1,0 +1,18 @@
+# build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+build/
+bin/
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
